@@ -14,7 +14,7 @@ An overview of Large Language Models (LLMs) with a focus on their relevance and 
 
 [Harness the power of generative AI for software development](https://github.com/readme/guides/coding-generative-ai)
 
-## Developing Software with LLM Capabilities Integrated
+## Developing Software with LLMs Capabilities Integrated
 
 A List of resources that provides software engineers with essential information and best practices for incorporating Large Language Model capabilities into their applications. 
 
