@@ -22,6 +22,8 @@ A List of resources that provides software engineers with essential information 
 
 [Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook)
 
+[Python example app from the OpenAI API quickstart tutorial](https://github.com/openai/openai-quickstart-python)
+
 [Launch an LLM App in One Hour](https://youtu.be/twHxmU9OxDU)
 
 [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
@@ -34,8 +36,23 @@ A List of resources that provides software engineers with essential information 
 
 [How to train your own Large Language Models](https://blog.replit.com/llm-training)
 
+[Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+
+[Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
+
+[Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
 
 ## Case Studies
 
 Real-world examples and services that have effectively integrated LLMs, illustrating their potential impact.
+
+[A browser extension that enhance search engines with ChatGPT](https://github.com/wong2/chatgpt-google-extension)
+
+[An unofficial Visual Studio Code - OpenAI ChatGPT integration](https://github.com/gencay/vscode-chatgpt)
+
+[WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys](https://github.com/Sansekai/Wa-OpenAI)
+
+[An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Significant-Gravitas/Auto-GPT)
+
+[Minimal web UI for ChatGPT](https://github.com/anse-app/chatgpt-demo)
 
