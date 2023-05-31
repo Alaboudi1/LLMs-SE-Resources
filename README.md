@@ -42,6 +42,8 @@ A List of resources that provides software engineers with essential information 
 
 [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
 
+[Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+
 ## Case Studies
 
 Real-world examples and services that have effectively integrated LLMs, illustrating their potential impact.
