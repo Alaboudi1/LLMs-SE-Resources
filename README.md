@@ -56,9 +56,9 @@ Real-world examples and services that have effectively integrated LLMs, illustra
 
 [Minimal web UI for ChatGPT](https://github.com/anse-app/chatgpt-demo)
 
-## Research Paper 
+## Research Papers 
 
-List of research papers of research papers investigating the user experience of AI-powered products and tools.
+List of research papers investigating the user experience of AI-powered products and tools.
 
 [papers-ux-ai-programming-Repo](https://github.com/AZHenley/papers-ux-ai-programming)
 
