@@ -16,6 +16,8 @@ An overview of Large Language Models (LLMs) with a focus on their relevance and 
 
 [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 
+[Prompt Engineering Guide](https://www.promptingguide.ai/)
+
 ## Developing Software with LLMs Capabilities Integrated
 
 A List of resources that provides software engineers with essential information and best practices for incorporating Large Language Model capabilities into their applications. 
